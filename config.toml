@@ -1,0 +1,14 @@
+title = "The world according to Joakim"
+publishDir = "public"
+baseurl = "http://www.joakimsk.com"
+languageCode = "en-us"
+author = "Joakim Skjefstad"
+googleanalytics = "UA-97080486-1"
+theme = "hugo-zen"
+buildDrafts = false
+
+[params]
+  logo      = "/images/logo.png"
+  facebook  = "https://www.facebook.com/skjefstad.joakim"
+  github    = "https://github.com/joakimsk/"
+  email     = "skjefstad.joakim@gmail.com"
